@@ -1,12 +1,13 @@
 
 body {
     background: #fefff7;
-    font-family: 'Zilla Slab', serif;
+    font-family: 'Volkhov', serif;
+
+
 }
 
 h1 {
-    font-family: 'PostNoBillsColombo';
-    color: red;
+    
 }
 
 h2 {
@@ -33,6 +34,9 @@ p {
   background: #4a5963;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
+}
+.logo{
+    width: 80%;
 }
 
 .btn:hover {
